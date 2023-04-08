@@ -16,9 +16,10 @@ public class Ja10 {
 					
 //			Function f = (name) -> "hello, " + name;　　　→正しい構文
 		
-//			Function f = name ->{
-//				return "hello, " + name;
-//			};　　　→正しい構文　関数型インターフェースの型　＋　変数名　変数名には（）入れなくても良い。
+			Function f = name ->{
+				return "hello, " + name;
+			};
+//			　→正しい構文　関数型インターフェースの型　＋　変数名　変数名には（）入れなくても良い。
 
 		
 		
