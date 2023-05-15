@@ -34,6 +34,12 @@ public class Js12 {
 		g = (char)f;
 		System.out.println(g);
 		System.out.println(g);
+		
+		int aa = 10;
+		float bb = 20.0F;
+å//		bb = aa;
+		System.out.println(aa);
+		System.out.println(bb);
 
 
 		
